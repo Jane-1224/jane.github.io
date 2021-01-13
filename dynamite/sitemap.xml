@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ya.com/index.html</loc>
+    <lastmod>2021-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ya.com/images/044-tinkerbell2008.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/e5a587e5a699e4bb99e5ad905-crop-u251.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/804026-crop-u395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/804028-crop-u415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/e5a587e5a699e4bb99e5ad906-crop-u435.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/e5a587e5a699e4bb99e5ad907-crop-u455.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/p5%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/p5-crop-u495.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/p7-crop-u515.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/p8%20(1)-crop-u535.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/p8%20(2)-crop-u555.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

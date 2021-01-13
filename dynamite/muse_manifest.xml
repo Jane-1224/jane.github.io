@@ -1,0 +1,67 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1609654170220">
+  <folder name="images">
+    <file name="044-tinkerbell2008.jpg" crc="208717689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="e5a587e5a699e4bb99e5ad905-crop-u251.jpg" crc="4165128664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="804026-crop-u395.jpg" crc="30343540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="804028-crop-u415.jpg" crc="272631988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e5a587e5a699e4bb99e5ad906-crop-u435.jpg" crc="4005943260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e5a587e5a699e4bb99e5ad907-crop-u455.jpg" crc="4265777987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5 (1).jpg" crc="3998281515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5-crop-u495.jpg" crc="3946344345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7-crop-u515.jpg" crc="4277433813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8 (1)-crop-u535.jpg" crc="3793357071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8 (2)-crop-u555.jpg" crc="3862798947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="張庭甄.png" crc="4113841082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="張庭甄-背景.jpg" crc="3761656057" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="張庭甄-圖層 1.png" crc="144018796" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u100-4.png" crc="4132910034" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3885231719" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4142536840" seo="true" mt="1609654160991" redirect="true"/>
+</manifest>
